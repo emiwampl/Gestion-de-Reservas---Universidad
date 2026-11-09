@@ -1,0 +1,29 @@
+Listado :
+| Aula 10 |
+* Capacidad Maxima: 70
+
+| Aula 222 |
+* Capacidad Maxima: 50
+
+| Aula 111 |
+* Capacidad Maxima: 60
+
+| Aula 110 |
+* Capacidad Maxima: 50
+
+| Aula 11 |
+* Capacidad Maxima: 70
+
+| Aula 220 |
+* Capacidad Maxima: 60
+
+| Aula 112 |
+* Capacidad Maxima: 70
+
+| Aula 12 |
+* Capacidad Maxima: 60
+
+| Aula 221 |
+* Capacidad Maxima: 50
+El promedio de reservas por aulas es de 2.5555556
+

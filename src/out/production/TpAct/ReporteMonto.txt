@@ -1,0 +1,16 @@
+Piso Actual: 0
+ El Aula 10 recaudo un total de $ 22500.0
+ El Aula 11 recaudo un total de $ 4000.0
+ El Aula 12 recaudo un total de $ 3400.0
+ El Piso 0 recaudo un total de $ 29900.0
+Piso Actual: 1
+ El Aula 110 recaudo un total de $ 0.0
+ El Aula 111 recaudo un total de $ 0.0
+ El Aula 112 recaudo un total de $ 25000.0
+ El Piso 1 recaudo un total de $ 25000.0
+Piso Actual: 2
+ El Aula 220 recaudo un total de $ 70000.0
+ El Aula 221 recaudo un total de $ 35000.0
+ El Aula 222 recaudo un total de $ 15000.0
+ El Piso 2 recaudo un total de $ 120000.0
+El monto total es de $174900.0

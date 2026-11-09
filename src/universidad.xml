@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Universidad>
+    <Asignaturas>
+        <Asignatura codigo="1001">
+            <nomAsignatura>Algoritmos y Estructuras de Datos II</nomAsignatura>
+            <RangoFechas>
+                <fechaInicial>2024-03-20</fechaInicial>
+                <fechaFinal>2024-06-31</fechaFinal>
+            </RangoFechas>
+            <diaDicta>LUNES</diaDicta>
+            <RangoHora>
+                <horaInicial>18:00</horaInicial>
+                <horaFinal>22:00</horaFinal>
+            </RangoHora>
+            <cantAlumnoInsc>50</cantAlumnoInsc>
+        </Asignatura>
+        <Asignatura codigo="1002">
+            <nomAsignatura>Complejidad Algoritmica</nomAsignatura>
+            <RangoFechas>
+                <fechaInicial>2024-03-20</fechaInicial>
+                <fechaFinal>2024-06-31</fechaFinal>
+            </RangoFechas>
+            <diaDicta>JUEVES</diaDicta>
+            <RangoHora>
+                <horaInicial>14:00</horaInicial>
+                <horaFinal>18:00</horaFinal>
+            </RangoHora>
+            <cantAlumnoInsc>60</cantAlumnoInsc>
+        </Asignatura>
+        <Asignatura codigo="1003">
+            <nomAsignatura>Base de Datos I</nomAsignatura>
+            <RangoFechas>
+                <fechaInicial>2024-03-20</fechaInicial>
+                <fechaFinal>2024-06-31</fechaFinal>
+            </RangoFechas>
+            <diaDicta>MIERCOLES</diaDicta>
+            <RangoHora>
+                <horaInicial>18:00</horaInicial>
+                <horaFinal>22:00</horaFinal>
+            </RangoHora>
+            <cantAlumnoInsc>40</cantAlumnoInsc>
+        </Asignatura>
+        <Asignatura codigo="1004">
+            <nomAsignatura>Sistemas Operativos I</nomAsignatura>
+            <RangoFechas>
+                <fechaInicial>2024-03-20</fechaInicial>
+                <fechaFinal>2024-06-31</fechaFinal>
+            </RangoFechas>
+            <diaDicta>MARTES</diaDicta>
+            <RangoHora>
+                <horaInicial>18:00</horaInicial>
+                <horaFinal>22:00</horaFinal>
+            </RangoHora>
+            <cantAlumnoInsc>50</cantAlumnoInsc>
+        </Asignatura>
+        <Asignatura codigo="1005">
+            <nomAsignatura>Lenguajes Formales</nomAsignatura>
+            <RangoFechas>
+                <fechaInicial>2024-03-20</fechaInicial>
+                <fechaFinal>2024-06-31</fechaFinal>
+            </RangoFechas>
+            <diaDicta>VIERNES</diaDicta>
+            <RangoHora>
+                <horaInicial>18:00</horaInicial>
+                <horaFinal>22:00</horaFinal>
+            </RangoHora>
+            <cantAlumnoInsc>60</cantAlumnoInsc>
+        </Asignatura>
+        <Asignatura codigo="2005">
+            <nomAsignatura>Ingenieria en Software</nomAsignatura>
+            <RangoFechas>
+                <fechaInicial>2024-03-20</fechaInicial>
+                <fechaFinal>2024-06-31</fechaFinal>
+            </RangoFechas>
+            <diaDicta>JUEVES</diaDicta>
+            <RangoHora>
+                <horaInicial>08:30</horaInicial>
+                <horaFinal>12:30</horaFinal>
+            </RangoHora>
+            <cantAlumnoInsc>50</cantAlumnoInsc>
+        </Asignatura>
+    </Asignaturas>
+    <CursosExtension>
+        <CursoExtension codigo="1006">
+            <descripcion>Redes Sociales</descripcion>
+            <cantInscMax>30</cantInscMax>
+            <cantClases>4</cantClases>
+            <costoCurso>20000</costoCurso>
+        </CursoExtension>
+        <CursoExtension codigo="1007">
+            <descripcion>Office</descripcion>
+            <cantInscMax>30</cantInscMax>
+            <cantClases>4</cantClases>
+            <costoCurso>15000</costoCurso>
+        </CursoExtension>
+        <CursoExtension codigo="1008">
+            <descripcion>Marketing Digital</descripcion>
+            <cantInscMax>30</cantInscMax>
+            <cantClases>4</cantClases>
+            <costoCurso>25000</costoCurso>
+        </CursoExtension>
+        <CursoExtension codigo="1009">
+            <descripcion>Planificación Financiera</descripcion>
+            <cantInscMax>30</cantInscMax>
+            <cantClases>4</cantClases>
+            <costoCurso>40000</costoCurso>
+        </CursoExtension>
+        <CursoExtension codigo="1010">
+            <descripcion> Edición de Imágenes</descripcion>
+            <cantInscMax>30</cantInscMax>
+            <cantClases>4</cantClases>
+            <costoCurso>30000</costoCurso>
+        </CursoExtension>
+        <CursoExtension codigo="2010">
+            <descripcion>Diseño Web</descripcion>
+            <cantInscMax>30</cantInscMax>
+            <cantClases>4</cantClases>
+            <costoCurso>35000</costoCurso>
+        </CursoExtension>
+    </CursosExtension>
+    <Eventos>
+        <EventoExterno codigo="1011">
+            <fecha>2024-06-27</fecha>
+            <RangoHora>
+                <horaInicial>18:00</horaInicial>
+                <horaFinal>20:00</horaFinal>
+            </RangoHora>
+            <cantMaxPart>30</cantMaxPart>
+            <costo>2500</costo>
+        </EventoExterno>
+        <EventoExterno codigo="1012">
+            <fecha>2024-06-24</fecha>
+            <RangoHora>
+                <horaInicial>17:00</horaInicial>
+                <horaFinal>19:00</horaFinal>
+            </RangoHora>
+            <cantMaxPart>35</cantMaxPart>
+            <costo>3400</costo>
+        </EventoExterno>
+        <EventoExterno codigo="1013">
+            <fecha>2024-06-30</fecha>
+            <RangoHora>
+                <horaInicial>18:00</horaInicial>
+                <horaFinal>20:00</horaFinal>
+            </RangoHora>
+            <cantMaxPart>25</cantMaxPart>
+            <costo>4000</costo>
+        </EventoExterno>
+        <EventoInterno codigo="1014">
+            <fecha>2024-05-25</fecha>
+            <RangoHora>
+                <horaInicial>14:00</horaInicial>
+                <horaFinal>16:00</horaFinal>
+            </RangoHora>
+            <descripcion>Encuentro Caece</descripcion>
+            <cantMaxPart>80</cantMaxPart>
+        </EventoInterno>
+        <EventoInterno codigo="1015">
+            <fecha>2024-05-30</fecha>
+            <RangoHora>
+                <horaInicial>16:00</horaInicial>
+                <horaFinal>18:00</horaFinal>
+            </RangoHora>
+            <descripcion>Caece Day</descripcion>
+            <cantMaxPart>100</cantMaxPart>
+        </EventoInterno>
+        <EventoInterno codigo="1016">
+            <fecha>2024-06-01</fecha>
+            <RangoHora>
+                <horaInicial>14:00</horaInicial>
+                <horaFinal>16:00</horaFinal>
+            </RangoHora>
+            <descripcion>Caece Connect</descripcion>
+            <cantMaxPart>90</cantMaxPart>
+        </EventoInterno>
+    </Eventos>
+    <Aulas>
+        <Aula id="010">
+            <capacidad>70</capacidad>
+            <reservas>
+                <reserva>
+                    <fecha>2024-03-20</fecha>
+                    <RangoHora>
+                        <horaInicial>18:00</horaInicial>
+                        <horaFinal>22:00</horaFinal>
+                    </RangoHora>
+                    <rs codigo="1001"/>
+                </reserva>
+                <reserva>
+                    <fecha>2024-03-27</fecha>
+                    <RangoHora>
+                        <horaInicial>18:00</horaInicial>
+                        <horaFinal>22:00</horaFinal>
+                    </RangoHora>
+                    <rs codigo="1001"/>
+                </reserva>
+                <reserva>
+                    <fecha>2024-06-27</fecha>
+                    <RangoHora>
+                        <horaInicial>18:00</horaInicial>
+                        <horaFinal>20:00</horaFinal>
+                    </RangoHora>
+                    <rs codigo="1011"/>
+                </reserva>
+                <reserva>
+                    <fecha>2024-04-28</fecha>
+                    <RangoHora>
+                        <horaInicial>18:00</horaInicial>
+                        <horaFinal>20:00</horaFinal>
+                    </RangoHora>
+                    <rs codigo="1006"/>
+                </reserva>
+            </reservas>
+        </Aula>
+        <Aula id="011">
+            <capacidad>70</capacidad>
+            <reservas>
+                <reserva>
+                    <fecha>2024-03-21</fecha>
+                    <RangoHora>
+                        <horaInicial>18:00</horaInicial>
+                        <horaFinal>22:00</horaFinal>
+                    </RangoHora>
+                    <rs codigo="1004"/>
+                </reserva>
+                <reserva>
+                    <fecha>2024-03-28</fecha>
+                    <RangoHora>
+                        <horaInicial>18:00</horaInicial>
+                        <horaFinal>22:00</horaFinal>
+                    </RangoHora>
+                    <rs codigo="1004"/>
+                </reserva>
+                <reserva>
+                    <fecha>2024-06-30</fecha>
+                    <RangoHora>
+                        <horaInicial>18:00</horaInicial>
+                        <horaFinal>20:00</horaFinal>
+                    </RangoHora>
+                    <rs codigo="1013"/>
+                </reserva>
+            </reservas>
+        </Aula>
+        <Aula id="012">
+            <capacidad>60</capacidad>
+            <reservas>
+                <reserva>
+                    <fecha>2024-03-23</fecha>
+                    <RangoHora>
+                        <horaInicial>14:00</horaInicial>
+                        <horaFinal>18:00</horaFinal>
+                    </RangoHora>
+                    <rs codigo="1002"/>
+                </reserva>
+                <reserva>
+                    <fecha>2024-06-24</fecha>
+                    <RangoHora>
+                        <horaInicial>17:00</horaInicial>
+                        <horaFinal>19:00</horaFinal>
+                    </RangoHora>
+                    <rs codigo="1012"/>
+                </reserva>
+            </reservas>
+        </Aula>
+        <Aula id="110">
+            <capacidad>50</capacidad>
+            <reservas>
+                <reserva>
+                    <fecha>2024-03-22</fecha>
+                    <RangoHora>
+                        <horaInicial>18:00</horaInicial>
+                        <horaFinal>22:00</horaFinal>
+                    </RangoHora>
+                    <rs codigo="1003"/>
+                </reserva>
+                <reserva>
+                    <fecha>2024-03-29</fecha>
+                    <RangoHora>
+                        <horaInicial>18:00</horaInicial>
+                        <horaFinal>22:00</horaFinal>
+                    </RangoHora>
+                    <rs codigo="1003"/>
+                </reserva>
+                <reserva>
+                    <fecha>2024-06-01</fecha>
+                    <RangoHora>
+                        <horaInicial>14:00</horaInicial>
+                        <horaFinal>16:00</horaFinal>
+                    </RangoHora>
+                    <rs codigo="1016"/>
+                </reserva>
+            </reservas>
+        </Aula>
+        <Aula id="111">
+            <capacidad>60</capacidad>
+            <reservas>
+                <reserva>
+                    <fecha>2024-03-24</fecha>
+                    <RangoHora>
+                        <horaInicial>18:00</horaInicial>
+                        <horaFinal>22:00</horaFinal>
+                    </RangoHora>
+                    <rs codigo="1005"/>
+                </reserva>
+                <reserva>
+                    <fecha>2024-03-31</fecha>
+                    <RangoHora>
+                        <horaInicial>18:00</horaInicial>
+                        <horaFinal>22:00</horaFinal>
+                    </RangoHora>
+                    <rs codigo="1005"/>
+                </reserva>
+                <reserva>
+                    <fecha>2024-05-25</fecha>
+                    <RangoHora>
+                        <horaInicial>14:00</horaInicial>
+                        <horaFinal>16:00</horaFinal>
+                    </RangoHora>
+                    <rs codigo="1014"/>
+                </reserva>
+            </reservas>
+        </Aula>
+        <Aula id="112">
+            <capacidad>70</capacidad>
+            <reservas>
+                <reserva>
+                    <fecha>2024-05-30</fecha>
+                    <RangoHora>
+                        <horaInicial>16:00</horaInicial>
+                        <horaFinal>18:00</horaFinal>
+                    </RangoHora>
+                    <rs codigo="1015"/>
+                </reserva>
+                <reserva>
+                    <fecha>2024-04-29</fecha>
+                    <RangoHora>
+                        <horaInicial>14:00</horaInicial>
+                        <horaFinal>18:00</horaFinal>
+                    </RangoHora>
+                    <rs codigo="1008"/>
+                </reserva>
+            </reservas>
+        </Aula>
+        <Aula id="220">
+            <capacidad>60</capacidad>
+            <reservas>
+                <reserva>
+                    <fecha>2024-04-27</fecha>
+                    <RangoHora>
+                        <horaInicial>14:00</horaInicial>
+                        <horaFinal>18:00</horaFinal>
+                    </RangoHora>
+                    <rs codigo="1009"/>
+                </reserva>
+                <reserva>
+                    <fecha>2024-04-26</fecha>
+                    <RangoHora>
+                        <horaInicial>14:00</horaInicial>
+                        <horaFinal>18:00</horaFinal>
+                    </RangoHora>
+                    <rs codigo="1010"/>
+                </reserva>
+            </reservas>
+        </Aula>
+        <Aula id="221">
+            <capacidad>50</capacidad>
+            <reservas>
+                <reserva>
+                    <fecha>2024-05-10</fecha>
+                    <RangoHora>
+                        <horaInicial>16:00</horaInicial>
+                        <horaFinal>18:00</horaFinal>
+                    </RangoHora>
+                    <rs codigo="2010"/>
+                </reserva>
+            </reservas>
+        </Aula>
+        <Aula id="222">
+            <capacidad>50</capacidad>
+            <reservas>
+                <reserva>
+                    <fecha>2024-03-23</fecha>
+                    <RangoHora>
+                        <horaInicial>08:30</horaInicial>
+                        <horaFinal>12:30</horaFinal>
+                    </RangoHora>
+                    <rs codigo="2005"/>
+                </reserva>
+                <reserva>
+                    <fecha>2024-03-30</fecha>
+                    <RangoHora>
+                        <horaInicial>08:30</horaInicial>
+                        <horaFinal>12:30</horaFinal>
+                    </RangoHora>
+                    <rs codigo="2005"/>
+                </reserva>
+                <reserva>
+                    <fecha>2024-04-25</fecha>
+                    <RangoHora>
+                        <horaInicial>10:00</horaInicial>
+                        <horaFinal>12:00</horaFinal>
+                    </RangoHora>
+                    <rs codigo="1007"/>
+                </reserva>
+            </reservas>
+        </Aula>
+    </Aulas>
+</Universidad>
